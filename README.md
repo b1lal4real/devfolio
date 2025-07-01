@@ -1,6 +1,6 @@
 # DevFolio - Modern Portfolio Template
 
-![DevFolio Screenshot](https://i.imgur.com/placeholder.png) 
+![DevFolio Screenshot](https://cdn.discordapp.com/attachments/1384613474935771266/1389716347721613332/image.png?ex=6865a1b4&is=68645034&hm=cbce75a00bb50674fb2f0c9a3e0632cbb69f4ea6395b9c17e73b3748d04566cc&) 
 *(Note: Add your screenshot URL after uploading)*
 
 A clean, responsive, and modern portfolio template for developers, designers, and creatives. Built with HTML5, CSS3, and vanilla JavaScript.
