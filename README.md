@@ -16,10 +16,6 @@ A clean, responsive, and modern portfolio template for developers, designers, an
 - 📬 **Functional Contact Form** - Ready for backend integration
 - 🎨 **Easy Customization** - Change colors, content with minimal effort
 
-## Demo
-
-[Live Demo](https://yourusername.github.io/devfolio/) 
-*(Replace with your GitHub Pages URL)*
 
 ## Installation
 
